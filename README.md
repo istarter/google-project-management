@@ -11,3 +11,7 @@ Project management is the application of knowledge, skills, tools, and technique
 ![image](https://user-images.githubusercontent.com/11480617/220907468-b2e87782-7c09-4d6a-b04e-f4bc03d2299e.png)
 ![image](https://user-images.githubusercontent.com/11480617/220907985-44be1fd0-6df5-43fd-845e-d5459f60392a.png)
 ![image](https://user-images.githubusercontent.com/11480617/220911186-da4d0207-aca0-43e5-aea2-fe4ccdd933ad.png)
+![image](https://user-images.githubusercontent.com/11480617/221595156-50964952-7e58-4ae9-afe8-666b7d9d88ba.png)
+![image](https://user-images.githubusercontent.com/11480617/221595478-e9ee6e92-f55e-44d7-a5a0-cafa985cb942.png)
+![image](https://user-images.githubusercontent.com/11480617/221597277-c8402051-72f0-42bd-af89-8a59c357081e.png)
+![image](https://user-images.githubusercontent.com/11480617/221597973-97a7caba-e90c-424e-880e-44965df37333.png)
